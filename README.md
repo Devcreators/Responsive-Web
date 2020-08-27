@@ -13,4 +13,4 @@
 
 # **icon image, font 출처**
 - [**Font Awesome**](https://fontawesome.com/)
-- [**Google Fonts**](https://fontawesome.com/)
+- [**Google Fonts**](https://fonts.google.com/)
